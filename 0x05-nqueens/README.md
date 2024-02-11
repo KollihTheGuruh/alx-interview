@@ -26,11 +26,7 @@ The N queens puzzle is a classic algorithmic challenge that requires placing N n
 
 - Usage: `nqueens N`
 
-```bash
-./0-nqueens.py N
-```
-
-    - If the user called the program with the wrong number of arguments, print Usage: nqueens N, followed by a new line, and exit with the status 1
+  - If the user called the program with the wrong number of arguments, print Usage: nqueens N, followed by a new line, and exit with the status 1
 
 - Where N must be an integer greater or equal to 4
 
