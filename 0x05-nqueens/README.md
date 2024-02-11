@@ -35,6 +35,3 @@ The N queens puzzle is a classic algorithmic challenge that requires placing N n
     - Format: see example
     - You don’t have to print the solutions in a specific order
 - You are only allowed to import the sys module
-
-```bash
-./0-nqueens.py N
