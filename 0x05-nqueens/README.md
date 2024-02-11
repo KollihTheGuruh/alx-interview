@@ -24,7 +24,7 @@ The N queens puzzle is a classic algorithmic challenge that requires placing N n
 
 **Description**: The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard.
 
-### Usage: `nqueens N`
+- Usage: `nqueens N`
 
 ```bash
 ./0-nqueens.py N
@@ -34,13 +34,13 @@ The N queens puzzle is a classic algorithmic challenge that requires placing N n
 
 - Where N must be an integer greater or equal to 4
 
-    - If N is not an integer, print N must be a number, followed by a new line, and exit with the status 1
+  - If N is not an integer, print N must be a number, followed by a new line, and exit with the status 1
 
-    - If N is smaller than 4, print N must be at least 4, followed by a new line, and exit with the status 1
+  - If N is smaller than 4, print N must be at least 4, followed by a new line, and exit with the status 1
 
 - The program should print every possible solution to the problem
 
-    - One solution per line
-    - Format: see example
-    - You don’t have to print the solutions in a specific order
-    - You are only allowed to import the sys module
+  - One solution per line
+  - Format: see example
+  - You don’t have to print the solutions in a specific order
+  - You are only allowed to import the sys module
